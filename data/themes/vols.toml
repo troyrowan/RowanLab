@@ -1,0 +1,17 @@
+#Theme metadata
+name = "vols"
+
+#Is theme light or dark
+light = false
+
+#Primary
+primary = "FF8200"
+
+#menu
+menu_primary = "FF8200"
+menu_text = "FFFFFF"
+menu_text_active = "58595B"
+menu_title = "FFFFFF"
+
+home_section_odd = "FFFFFF"
+home_section_even = "B9E1E2"
